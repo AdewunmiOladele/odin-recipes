@@ -8,7 +8,7 @@ In the process of creating this project, I revisited and strengthened my HTML an
 
 ## 🌐 Preview
 
-Experience the magic of recipes in our live demo [here](/). Feel free to explore, cook, and savor the delicious creations! 🍽️✨
+Experience the magic of recipes in our live demo [here](https://adewunmioladele.github.io/odin-recipes/). Feel free to explore, cook, and savor the delicious creations! 🍽️✨
 
 ## 🛠️ Technologies Used
 - HTML
@@ -28,7 +28,7 @@ Experience the magic of recipes in our live demo [here](/). Feel free to explore
 3. Open `index.html` in your preferred browser.
 
 ## 📝 Usage
-1. Explore the live demo [here](/).
+1. Explore the live demo [here](https://adewunmioladele.github.io/odin-recipes/).
 2. Click on each recipe to view ingredients and steps.
 3. Navigate between recipes using the "Next" and "Previous" links.
 
